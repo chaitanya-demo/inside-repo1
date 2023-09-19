@@ -1,0 +1,18 @@
+{
+    "name": "my-node-project",
+    "version": "1.0.0",
+    "description": "A sample Node.js project with unit testing.",
+    "main": "src/calculator.js",
+    "scripts": {
+      "test": "mocha",
+      "build": "echo 'Build your project here.'"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "chai": "^4.3.4",
+      "mocha": "^9.1.3"
+    }
+  }
+  
